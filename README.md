@@ -1,4 +1,4 @@
-### 👋 Hello, I'm PolokPicaso
+### 👋 Hello, I'm Polok
 
 I'm a passionate web developer with a strong desire to create engaging and user-friendly websites.
 
